@@ -1,0 +1,24 @@
+body {
+    background-color: #343740;
+    margin: 0px;
+}
+
+#outerScreen {
+    margin: 68px;
+    background-color: #8f96a6;
+    border-radius: 25px;
+    padding: 40px;
+    height: calc(100vh - 221px);
+    min-height: 145px;
+}
+
+#screen {
+    background: radial-gradient(#46773f , #0d0d0d);
+
+    height: calc(100vh - 221px);
+    min-height: 115px;
+
+    border-radius: 15px;
+
+    color: #498c3f;
+}
